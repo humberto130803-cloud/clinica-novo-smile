@@ -1,0 +1,71 @@
+{
+  "google": {
+    "name": "Clínica Odontológica Novo Smile",
+    "category": "Ortodoncista en David",
+    "address": "Planta baja, Avenida 5ta Oeste con Calle B Sur, edificio del Gimnasio Power Fitness, David, Provincia de Chiriquí",
+    "phone": "6237-3719",
+    "website": "https://wa.me",
+    "hours": {
+      "lunes": "9 a.m.–6 p.m.",
+      "martes": "9 a.m.–6 p.m.",
+      "miércoles": "9 a.m.–6 p.m.",
+      "jueves": "9 a.m.–6 p.m.",
+      "viernes": "9 a.m.–6 p.m.",
+      "sábado": "8 a.m.–2 p.m.",
+      "domingo": "Cerrado"
+    },
+    "rating": "4.8",
+    "review_count": "84",
+    "reviews": [],
+    "photos_downloaded": [],
+    "instagram_from_google": "https://instagram.com/novo.smile",
+    "logo": "C:\\Users\\humbe\\selling websites\\_temp_assets\\logo.jpg"
+  },
+  "social": {
+    "handle": "novo.smile",
+    "bio": "Novo Smile",
+    "followers": "5,066",
+    "posts_count": "145",
+    "highlights": [],
+    "recent_posts": [
+      {
+        "image": "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_1.jpg",
+        "alt": "Photo by Novo Smile on January 22, 2026. May be an image of brush, toothbrush and text that says 'ATENCIÓN DENTAL PARA NINOS OFRECEMOS Limpieza Extracciones Calzas Sellantes de fosas y fisuras Pulpotomía Pulpotomia/pulpectomía pulpectomía Coronas 6237-3719 NOVOSMILE David,Chiriquí David, Chiriquí'."
+      },
+      {
+        "image": "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_2.jpg",
+        "alt": "Photo by Novo Smile on October 24, 2025."
+      },
+      {
+        "image": "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_3.jpg",
+        "alt": "Photo by Novo Smile on October 03, 2025."
+      },
+      {
+        "image": "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_4.jpg",
+        "alt": "Photo by Novo Smile on August 06, 2025."
+      },
+      {
+        "image": "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_5.jpg",
+        "alt": "Photo by Novo Smile on January 22, 2025."
+      },
+      {
+        "image": "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_6.jpg",
+        "alt": "Photo by Novo Smile on January 14, 2025."
+      }
+    ],
+    "downloaded_images": [
+      "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_1.jpg",
+      "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_2.jpg",
+      "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_3.jpg",
+      "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_4.jpg",
+      "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_5.jpg",
+      "C:\\Users\\humbe\\selling websites\\Clínica Odontológica Novo Smile (20260309_0154)\\assets\\post_6.jpg"
+    ]
+  },
+  "socials_urls": {
+    "instagram": "https://instagram.com/novo.smile",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "scraped_at": "2026-03-09T01:55:17.033782"
+}
